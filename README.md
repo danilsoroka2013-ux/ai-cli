@@ -31,7 +31,7 @@
 ### Windows / Linux / macOS
 
 ```bash
-git clone https://github.com/<you>/ai-cli.git
+git clone https://github.com/danilsoroka2013-ux/ai-cli.git
 cd ai-cli
 python -m venv .venv
 .venv\Scripts\activate        # Windows
@@ -43,7 +43,7 @@ pip install -e .
 
 ```bash
 pkg install -y git python
-git clone https://github.com/<you>/ai-cli.git
+git clone https://github.com/danilsoroka2013-ux/ai-cli.git
 cd ai-cli
 bash install-termux.sh
 ```
